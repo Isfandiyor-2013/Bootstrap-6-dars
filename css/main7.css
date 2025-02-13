@@ -1,0 +1,19 @@
+.matn{
+    background: linear-gradient(36deg, pink, purple);
+    text-align: center;
+}
+.matn-2{
+    width: 160px;
+    position: relative;
+    left: 30px;
+    border-radius: 15px;
+}
+.matn-3{
+    background: linear-gradient(38deg, aqua, blue);
+}
+.matn-4{
+    background: linear-gradient(56deg, yellow, pink);
+}
+.matn-55{
+    background: linear-gradient(87deg, blue, lightblue);
+}
